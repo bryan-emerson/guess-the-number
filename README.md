@@ -12,8 +12,6 @@ Build a command line app to let users guess a random number
 
 1.  Fork and clone this repository.
 1.  Change into the new directory.
-1.  Install dependencies.
-1.  Create and checkout a new branch to work on.
 1.  Fulfill the listed requirements.
 
 Do your work inside of [`lib/`](lib/). You are required to turn in your
